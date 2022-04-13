@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/sandre/ngix-fixed",
-  "repository": "https://github.com/sandre/ngix-fixed",
+  "website": "https://github.com/jhfds34/sandre",
+  "repository": "https://github.com/jhfds34/sandre",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
