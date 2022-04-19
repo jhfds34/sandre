@@ -21,5 +21,4 @@
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
-  ]
-}
+  
